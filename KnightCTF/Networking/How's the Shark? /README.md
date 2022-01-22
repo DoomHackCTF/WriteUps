@@ -7,4 +7,4 @@
 
 <p>So i decided to export the http objects, inside of these objects we have a picture with the flag.</p>
 
-<img src="images/something%20something.png">
+<img src="images/something.png">

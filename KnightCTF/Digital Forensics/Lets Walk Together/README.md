@@ -8,7 +8,7 @@
 
 <img src= "images/pass2.png">
 
-<p>Once i had the password i unzipped it and open the flag.txt file</p>
+<p>Once i had the password i unzipped it and opened the flag.txt file</p>
 
 <strong> The flag is: KCTF{BiNw4lk_is_h3lpfUl} </strong>
 

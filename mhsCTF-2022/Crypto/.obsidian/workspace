@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "bbcfb7580f437796",
+    "type": "split",
+    "children": [
+      {
+        "id": "cce86d21de8d45ca",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Em dee/README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5d72d025e1710d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "59eda41359d87f98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c14df320ced4bb22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c654072df21b898d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ece22c1d477d9640",
+    "type": "split",
+    "children": [
+      {
+        "id": "e96099003df5afa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3e802eb1e978d37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Em dee/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cce86d21de8d45ca",
+  "lastOpenFiles": [
+    "Em dee/README.md",
+    "Em dee/img/challenge.png",
+    "Em dee/Em Dee.md.md",
+    "Untitled.md"
+  ]
+}

@@ -75,4 +75,3 @@ for i in range(0, len(flag_enc), 4):
         except:
             pass
 ```
-

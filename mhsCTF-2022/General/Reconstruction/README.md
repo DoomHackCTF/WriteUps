@@ -4,7 +4,7 @@ We are given a file with a bunch of numbers between 0 to 255, these are the rgb 
 
 We made a script to reconstruct the image based on the rgb values.
 
-(We found out that there are 960 rows too, so the size of the image was 960 x 960).
+(We found out that there are 960 values in each row, so the size of the image was 960 x 960).
 
 ```python
 from PIL import Image

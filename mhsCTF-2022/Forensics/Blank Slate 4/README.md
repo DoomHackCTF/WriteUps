@@ -1,6 +1,6 @@
 <img src="img/challenge.png">
 
-We are given a txt file that appears to be empty, one tool for empty space is stegsnow, however this won't return any input, so there must be another solution and there is, this challenge is similar to one of the picogym that i already solved thanks to this [writeup](https://github.com/Dvd848/CTFs/blob/master/2019_picoCTF/WhitePages.md)
+We are given a txt file that appears to be empty, one tool for empty space is stegsnow, however this won't return any output, so there must be another solution and there is, this challenge is similar to one of the picogym that i already solved thanks to this [writeup](https://github.com/Dvd848/CTFs/blob/master/2019_picoCTF/WhitePages.md)
 
 
 If we inspect the file in a hexeditor we will find 3 patterns.

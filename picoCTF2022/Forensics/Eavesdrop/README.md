@@ -7,6 +7,7 @@ Exploring the tcp streams i found a conversation between two individuals with so
 We know the command to decrypt some file and that it's going to be sent again.
 
 The stream 2 is what appears to be the encrypted file.
+
 <img src="img/2.png">
 
 I saved it as raw because otherwise i would get a bunch of gibberish when i decrypted it.
